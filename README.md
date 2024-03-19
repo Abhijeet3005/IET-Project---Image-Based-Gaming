@@ -29,10 +29,6 @@ The implementation of the gesture-controlled keyboard simulator consists of thre
 •	sklearn
 •	ctypes
 
-The repository includes three main python(.py) files particularly:
-1.	control.py (Code to map gesture- slope and distance with the keys)
-2.	directkeys.py (Code to interact with the keyboard keys. Reference: https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game%20#%20http://www.gamespp.com/directx/directInputKeyboardScanCodes.html)
-3.	final.py (Main code to take input i.e. hand gesture using background subtraction method, find end points of hand and henceforth distance and slope using convex hull)
 
 ### Steps to run the code:
 1.	Download the zip file and unzip all in same folder. We have used PyCharm Community Edition to run the codes. You may use other python editors which support the above libraries.
@@ -59,6 +55,7 @@ For further exploration and understanding of the technologies and methodologies 
 - [OpenCV Documentation](https://opencv.org/)
 - [NumPy Documentation](https://numpy.org/doc/)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+- [Code to interact with the keyboard keys](https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game%20#%20http://www.gamespp.com/directx/directInputKeyboardScanCodes.html)
 
 ## Mentors and Mentees
 Mentees:
