@@ -100,6 +100,9 @@ For further exploration and understanding of the technologies and methodologies 
 - [scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Code to interact with the keyboard keys](https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game%20#%20http://www.gamespp.com/directx/directInputKeyboardScanCodes.html)
 
+![image](https://github.com/Cborgg/IET-Project---Image-Based-Gaming/assets/118260187/e7fea732-7dd4-4d1c-8fd4-5b907c392315)
+
+
 ## Mentors and Mentees
 Mentees:
 Gautam Sivakumar
