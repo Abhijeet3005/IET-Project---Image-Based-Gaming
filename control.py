@@ -9,20 +9,20 @@ class Control:
         keyPressed_lr = False
         recentKey = None
 
-        if 120 <= distance <= 220:
+        if 110 <= distance <= 210:
             PressKey(W)
             recentKey = W
             print('Press W')
             keyPressed = True
             self.current_key_pressed.add(W)
-        elif 20 <= distance <= 115:
+        elif 20 <= distance <= 110:
             PressKey(S)
             recentKey = S
             print('Press S')
             keyPressed = True
             self.current_key_pressed.add(S)
 
-        if -0.41 < slope < -0.25:
+        if -0.40 < slope < -0.25:
             PressKey(A)
             print('Press <--')
             self.current_key_pressed.add(A)
