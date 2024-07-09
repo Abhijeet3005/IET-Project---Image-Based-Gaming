@@ -39,8 +39,7 @@ The methodology employed in this project encompasses several key steps:
    - Calculate slopes between specific points to determine hand orientation or gesture direction.
 
 8. **Keyboard Simulation**:
-   - Based on the analyzed gestures, simulate predefined keyboard commands (e.g., W, A, S, D) using the `Control` class (`control.py`).
-   - The `Control` class interprets hand gestures and triggers corresponding keyboard commands using the `directkeys.py` module.
+   - Used the pynput library to press and release keys
 
 9. **Interactive Control**:
    - Continuously check for user interactions, such as adjusting HSV values through trackbars or activating gesture control with a start button.
