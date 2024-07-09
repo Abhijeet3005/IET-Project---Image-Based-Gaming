@@ -54,7 +54,6 @@ The methodology employed in this project encompasses several key steps:
 
 By following this methodology, the code achieves real-time gesture-controlled keyboard simulation, providing users with an intuitive and interactive means of interfacing with digital systems.
 
-
 ## Implementation
 The implementation of the gesture-controlled keyboard simulator consists of three primary components:
 
